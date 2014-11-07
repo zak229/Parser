@@ -1,281 +1,1368 @@
-INFO:root:None
-INFO:root:None
-INFO:root:None
-INFO:root:14667 has options
-INFO:root:14682 has options
-INFO:root:14693 has options
-INFO:root:14752 has options
-INFO:root:14767 has options
-INFO:root:14777 has options
-INFO:root:14823 has options
-INFO:root:14827 has options
-INFO:root:14853 has options
-INFO:root:14906 has options
-INFO:root:14923 has options
-INFO:root:14933 has options
-INFO:root:14950 has options
-INFO:root:15005 has options
-INFO:root:15040 has options
-INFO:root:15045 has options
-INFO:root:15072 has options
-INFO:root:15076 has options
-INFO:root:15082 has options
-INFO:root:15099 has options
-INFO:root:15105 has options
-INFO:root:15122 has options
-INFO:root:15126 has options
-INFO:root:15128 has options
-INFO:root:15131 has options
-INFO:root:15141 has options
-INFO:root:15166 has options
-INFO:root:15201 has options
-INFO:root:15224 has options
-INFO:root:15225 has options
-INFO:root:15245 has options
-INFO:root:15250 has options
-INFO:root:15258 has options
-INFO:root:15295 has options
-INFO:root:15302 has options
-INFO:root:15309 has options
-INFO:root:15321 has options
-INFO:root:15325 has options
-INFO:root:15334 has options
-INFO:root:15368 has options
-INFO:root:15374 has options
-INFO:root:15379 has options
-INFO:root:15399 has options
-INFO:root:15407 has options
-INFO:root:15433 has options
-INFO:root:15442 has options
-INFO:root:15474 has options
-INFO:root:15486 has options
-INFO:root:15492 has options
-INFO:root:15509 has options
-INFO:root:15514 has options
-INFO:root:15536 has options
-INFO:root:15540 has options
-INFO:root:15551 has options
-INFO:root:15553 has options
-INFO:root:15578 has options
-INFO:root:15605 has options
-INFO:root:15607 has options
-INFO:root:15631 has options
-INFO:root:15666 has options
-INFO:root:15691 has options
-INFO:root:15721 has options
-INFO:root:15754 has options
-INFO:root:15765 has options
-INFO:root:15773 has options
-INFO:root:15779 has options
-INFO:root:15799 has options
-INFO:root:15816 has options
-INFO:root:15840 has options
-INFO:root:15870 has options
-INFO:root:15875 has options
-INFO:root:15885 has options
-INFO:root:15893 has options
-INFO:root:15895 has options
-INFO:root:15910 has options
-INFO:root:15916 has options
-INFO:root:15937 has options
-INFO:root:15942 has options
-INFO:root:15944 has options
-INFO:root:15950 has options
-INFO:root:15952 has options
-INFO:root:15954 has options
-INFO:root:15965 has options
-INFO:root:15981 has options
-INFO:root:16013 has options
-INFO:root:16015 has options
-INFO:root:16044 has options
-INFO:root:16046 has options
-INFO:root:16051 has options
-INFO:root:16052 has options
-INFO:root:16068 has options
-INFO:root:16095 has options
-INFO:root:16124 has options
-INFO:root:16151 has options
-INFO:root:16161 has options
-INFO:root:16175 has options
-INFO:root:16185 has options
-INFO:root:16187 has options
-INFO:root:16200 has options
-INFO:root:16202 has options
-INFO:root:16203 has options
-INFO:root:16208 has options
-INFO:root:16240 has options
-INFO:root:16243 has options
-INFO:root:16247 has options
-INFO:root:16258 has options
-INFO:root:16272 has options
-INFO:root:16278 has options
-INFO:root:16305 has options
-INFO:root:16314 has options
-INFO:root:16333 has options
-INFO:root:16347 has options
-INFO:root:16357 has options
-INFO:root:16358 has options
-INFO:root:16361 has options
-INFO:root:16367 has options
-INFO:root:16401 has options
-INFO:root:16406 has options
-INFO:root:16438 has options
-INFO:root:16469 has options
-INFO:root:16472 has options
-INFO:root:16487 has options
-INFO:root:16498 has options
-INFO:root:16515 has options
-INFO:root:16560 has options
-INFO:root:16561 has options
-INFO:root:16596 has options
-INFO:root:16599 has options
-INFO:root:16612 has options
-INFO:root:16643 has options
-INFO:root:16661 has options
-INFO:root:16669 has options
-INFO:root:16676 has options
-INFO:root:16701 has options
-INFO:root:16709 has options
-INFO:root:16733 has options
-INFO:root:16765 has options
-INFO:root:16805 has options
-INFO:root:16812 has options
-INFO:root:16825 has options
-INFO:root:16838 has options
-INFO:root:16840 has options
-INFO:root:16843 has options
-INFO:root:16848 has options
-INFO:root:16862 has options
-INFO:root:16870 has options
-INFO:root:16878 has options
-INFO:root:16890 has options
-INFO:root:16903 has options
-INFO:root:16913 has options
-INFO:root:16939 has options
-INFO:root:16949 has options
-INFO:root:16953 has options
-INFO:root:16956 has options
-INFO:root:17004 has options
-INFO:root:17005 has options
-INFO:root:17047 has options
-INFO:root:17073 has options
-INFO:root:17124 has options
-INFO:root:17125 has options
-INFO:root:17141 has options
-INFO:root:17150 has options
-INFO:root:17154 has options
-INFO:root:17155 has options
-INFO:root:17176 has options
-INFO:root:17190 has options
-INFO:root:17213 has options
-INFO:root:17216 has options
-INFO:root:17225 has options
-INFO:root:17259 has options
-INFO:root:17260 has options
-INFO:root:17278 has options
-INFO:root:17282 has options
-INFO:root:17306 has options
-INFO:root:17331 has options
-INFO:root:17360 has options
-INFO:root:17373 has options
-INFO:root:17404 has options
-INFO:root:17410 has options
-INFO:root:17435 has options
-INFO:root:17487 has options
-INFO:root:17499 has options
-INFO:root:17591 has options
-INFO:root:17592 has options
-INFO:root:17597 has options
-INFO:root:17632 has options
-INFO:root:17645 has options
-INFO:root:17650 has options
-INFO:root:17662 has options
-INFO:root:17697 has options
-INFO:root:17722 has options
-INFO:root:17745 has options
-INFO:root:17818 has options
-INFO:root:17820 has options
-INFO:root:17856 has options
-INFO:root:17892 has options
-INFO:root:17924 has options
-INFO:root:17958 has options
-INFO:root:17970 has options
-INFO:root:17972 has options
-INFO:root:17980 has options
-INFO:root:17983 has options
-INFO:root:17995 has options
-INFO:root:18026 has options
-INFO:root:18038 has options
-INFO:root:18097 has options
-INFO:root:18136 has options
-INFO:root:18145 has options
-INFO:root:18199 has options
-INFO:root:18202 has options
-INFO:root:18232 has options
-INFO:root:18250 has options
-INFO:root:18255 has options
-INFO:root:18273 has options
-INFO:root:18355 has options
-INFO:root:18362 has options
-INFO:root:18396 has options
-INFO:root:18401 has options
-INFO:root:18408 has options
-INFO:root:18416 has options
-INFO:root:18429 has options
-INFO:root:18481 has options
-INFO:root:18484 has options
-INFO:root:18515 has options
-INFO:root:18570 has options
-INFO:root:18576 has options
-INFO:root:18593 has options
-INFO:root:18596 has options
-INFO:root:18600 has options
-INFO:root:18623 has options
-INFO:root:18627 has options
-INFO:root:18657 has options
-INFO:root:18666 has options
-INFO:root:18688 has options
-INFO:root:18696 has options
-INFO:root:18763 has options
-INFO:root:18772 has options
-INFO:root:18787 has options
-INFO:root:18794 has options
-INFO:root:18799 has options
-INFO:root:18805 has options
-INFO:root:18819 has options
-INFO:root:18845 has options
-INFO:root:18875 has options
-INFO:root:18877 has options
-INFO:root:18880 has options
-INFO:root:18894 has options
-INFO:root:18906 has options
-INFO:root:18921 has options
-INFO:root:18926 has options
-INFO:root:18986 has options
-INFO:root:19036 has options
-INFO:root:19075 has options
-INFO:root:19097 has options
-INFO:root:19106 has options
-INFO:root:19115 has options
-INFO:root:19130 has options
-INFO:root:19159 has options
-INFO:root:19210 has options
-INFO:root:19218 has options
-INFO:root:19247 has options
-INFO:root:19265 has options
-INFO:root:19285 has options
-INFO:root:19306 has options
-INFO:root:19312 has options
-INFO:root:19314 has options
-INFO:root:19327 has options
-INFO:root:19340 has options
-INFO:root:19364 has options
-INFO:root:19365 has options
-INFO:root:19374 has options
-INFO:root:19378 has options
-INFO:root:19386 has options
-INFO:root:19404 has options
-INFO:root:19407 has options
-INFO:root:19414 has options
-INFO:root:19423 has options
-INFO:root:19450 has options
+INFO:root:14644,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14647,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14648,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14649,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14650,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14651,option 0,spin-off 0,spinoff 0,insider 6,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14652,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14653,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14654,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14655,option 1,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14656,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 2
+INFO:root:14657,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14658,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 2
+INFO:root:14659,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14660,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14661,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14662,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14663,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14664,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14665,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14666,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14667,option 2,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 1,pyramid 0,misleading 0
+INFO:root:14668,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14669,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14670,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14671,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14672,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14673,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 1,pyramid 0,misleading 0
+INFO:root:14674,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14675,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14676,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14677,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14678,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14679,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14680,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14681,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14682,option 3,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14683,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14684,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14685,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14686,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14687,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14688,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 1,misleading 0
+INFO:root:14689,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14690,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14691,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14692,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14693,option 1,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14694,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 10,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14695,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 2,put 0,pyramid 0,misleading 1
+INFO:root:14696,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14697,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14698,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14699,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14700,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 2
+INFO:root:14701,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 1,put 0,pyramid 0,misleading 2
+INFO:root:14702,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 1,pyramid 0,misleading 0
+INFO:root:14703,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14704,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 8,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14705,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 1
+INFO:root:14706,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14707,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 1
+INFO:root:14708,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14709,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14710,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14711,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 8,call 2,put 0,pyramid 0,misleading 0
+INFO:root:14712,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 1,misleading 0
+INFO:root:14713,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14714,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14715,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14716,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14717,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14718,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 1,pyramid 0,misleading 0
+INFO:root:14719,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14720,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 1,pyramid 0,misleading 0
+INFO:root:14721,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14722,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14724,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14725,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14726,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 1,pyramid 0,misleading 1
+INFO:root:14727,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14728,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14729,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14730,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14731,option 0,spin-off 0,spinoff 0,insider 6,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14732,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 2
+INFO:root:14733,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14734,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 2,put 0,pyramid 0,misleading 0
+INFO:root:14735,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14736,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14737,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14738,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14739,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14740,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14741,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14742,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14743,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14744,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14745,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14746,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14747,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14748,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14749,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14750,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14751,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14752,option 4,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 2,put 0,pyramid 0,misleading 0
+INFO:root:14753,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 2
+INFO:root:14754,option 5,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 7,put 0,pyramid 0,misleading 0
+INFO:root:14755,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14756,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14757,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14758,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14759,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14760,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14762,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 2,put 0,pyramid 0,misleading 0
+INFO:root:14763,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14764,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14765,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 7,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14766,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 3,put 0,pyramid 0,misleading 0
+INFO:root:14767,option 3,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 3,put 0,pyramid 0,misleading 0
+INFO:root:14768,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14769,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14770,option 1,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14771,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14772,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14773,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14774,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14775,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14776,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14777,option 1,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14778,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14779,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 2,put 0,pyramid 0,misleading 0
+INFO:root:14780,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14781,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14782,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14783,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14784,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14785,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14786,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14787,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14788,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14789,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 2,put 0,pyramid 0,misleading 0
+INFO:root:14790,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14791,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14792,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 5,put 0,pyramid 0,misleading 4
+INFO:root:14793,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14794,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14795,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14796,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14797,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14798,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 2
+INFO:root:14799,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14800,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14801,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 2,put 0,pyramid 0,misleading 0
+INFO:root:14802,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14803,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14804,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 8,call 3,put 0,pyramid 0,misleading 0
+INFO:root:14805,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14806,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14807,option 1,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14808,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14809,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14810,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 5,pyramid 0,misleading 0
+INFO:root:14811,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14812,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14813,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14814,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 7,call 0,put 1,pyramid 0,misleading 0
+INFO:root:14815,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 2,put 0,pyramid 0,misleading 0
+INFO:root:14816,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14817,option 2,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14818,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 1,pyramid 0,misleading 0
+INFO:root:14819,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14820,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14821,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14822,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14823,option 3,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14824,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14825,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 1,pyramid 0,misleading 0
+INFO:root:14826,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14827,option 1,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14828,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 7,call 3,put 0,pyramid 0,misleading 0
+INFO:root:14829,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14830,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14831,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14832,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14833,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14834,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14835,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 2,put 0,pyramid 0,misleading 1
+INFO:root:14836,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14837,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14838,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14839,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14840,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14841,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14842,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14843,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14844,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 2,misleading 0
+INFO:root:14845,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14846,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14847,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14848,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 1,pyramid 0,misleading 0
+INFO:root:14849,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 2,put 0,pyramid 0,misleading 1
+INFO:root:14850,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 1,pyramid 0,misleading 0
+INFO:root:14851,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 2,put 0,pyramid 0,misleading 0
+INFO:root:14852,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14853,option 3,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14854,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14855,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14856,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14857,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14858,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14859,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14860,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14861,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14862,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14863,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 3,put 0,pyramid 0,misleading 0
+INFO:root:14864,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 2
+INFO:root:14865,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 2
+INFO:root:14866,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 2,put 0,pyramid 0,misleading 0
+INFO:root:14867,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14868,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14869,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14870,option 1,spin-off 0,spinoff 0,insider 3,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14871,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14872,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14873,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14874,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14875,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 7,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14876,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14877,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14878,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14879,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14880,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14881,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14882,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 2
+INFO:root:14883,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 3,put 0,pyramid 0,misleading 0
+INFO:root:14884,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14885,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14886,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14887,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14888,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14889,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14890,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14891,option 1,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14892,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14893,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14894,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14895,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 2,call 1,put 2,pyramid 0,misleading 2
+INFO:root:14896,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 1
+INFO:root:14897,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14898,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14899,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14900,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14901,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14902,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14903,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 9,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14904,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14905,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14906,option 4,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 0,put 1,pyramid 0,misleading 0
+INFO:root:14907,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 2
+INFO:root:14908,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 3
+INFO:root:14909,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14910,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 3
+INFO:root:14911,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14912,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14913,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14914,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14915,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 2,put 0,pyramid 0,misleading 0
+INFO:root:14916,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14917,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14918,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14919,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14920,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 2,put 0,pyramid 0,misleading 0
+INFO:root:14921,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14922,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14923,option 7,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 7,put 0,pyramid 0,misleading 0
+INFO:root:14924,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14925,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14926,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14927,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 3
+INFO:root:14928,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:14929,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 2,put 0,pyramid 0,misleading 0
+INFO:root:14930,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14931,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14932,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 1,pyramid 0,misleading 0
+INFO:root:14933,option 2,spin-off 0,spinoff 0,insider 3,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14934,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14935,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14936,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14937,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14938,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 2,pyramid 0,misleading 1
+INFO:root:14939,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14940,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14941,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14942,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 2,put 3,pyramid 0,misleading 0
+INFO:root:14943,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14944,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14945,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14946,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14947,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 1
+INFO:root:14948,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14949,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 3
+INFO:root:14950,option 4,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 3,put 0,pyramid 0,misleading 0
+INFO:root:14951,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14952,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14953,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14954,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14955,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14956,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14957,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14958,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14959,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14960,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14961,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 9,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14962,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14963,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14964,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 1
+INFO:root:14965,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14966,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14967,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14968,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14969,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14970,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14971,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14972,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14973,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14974,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14975,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 1
+INFO:root:14976,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14977,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 2
+INFO:root:14978,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14979,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14980,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14981,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14982,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14984,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14985,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14986,option 0,spin-off 0,spinoff 0,insider 3,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14987,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14988,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14989,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14990,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14991,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14992,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 7,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14993,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14994,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:14995,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14996,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14997,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:14998,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 9,call 1,put 0,pyramid 0,misleading 2
+INFO:root:14999,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15000,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 4
+INFO:root:15001,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 3
+INFO:root:15002,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15003,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 2
+INFO:root:15004,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15005,option 1,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15006,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15007,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15008,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15009,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15010,option 1,spin-off 0,spinoff 0,insider 3,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15011,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15012,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15013,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15014,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15015,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15016,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15017,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15018,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15019,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15020,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15021,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15022,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15023,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15024,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15025,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15026,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15027,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 2,pyramid 0,misleading 0
+INFO:root:15028,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15029,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 8,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15030,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15031,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15032,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15033,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15034,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15035,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15036,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15037,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15038,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15039,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15040,option 2,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15041,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15042,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15043,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 2
+INFO:root:15044,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15045,option 6,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 6,put 0,pyramid 0,misleading 0
+INFO:root:15046,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 2,put 0,pyramid 0,misleading 8
+INFO:root:15047,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15048,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15049,option 0,spin-off 0,spinoff 0,insider 3,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15050,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15051,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 2
+INFO:root:15052,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15053,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 2
+INFO:root:15054,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15055,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15056,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15057,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15058,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15059,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15060,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15061,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 1,pyramid 0,misleading 3
+INFO:root:15062,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15063,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15064,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15065,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15066,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15067,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15068,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 4
+INFO:root:15069,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15070,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15071,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 2,call 1,put 1,pyramid 0,misleading 2
+INFO:root:15072,option 4,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 4,put 0,pyramid 0,misleading 0
+INFO:root:15073,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 3,put 1,pyramid 0,misleading 1
+INFO:root:15074,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15075,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 8,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15076,option 1,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15077,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15078,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15079,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15080,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15081,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15082,option 2,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15083,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 4
+INFO:root:15084,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15085,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15086,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15087,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15088,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 3
+INFO:root:15089,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15090,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15091,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 2
+INFO:root:15092,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 3
+INFO:root:15093,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15094,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15095,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15096,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15097,option 0,spin-off 0,spinoff 0,insider 3,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15098,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15099,option 1,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 1,misleading 0
+INFO:root:15100,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15101,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15102,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15103,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15104,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15105,option 1,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15106,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15107,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15108,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 8,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15109,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 10,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15110,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15111,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15112,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15113,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15114,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15115,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15116,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15117,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15118,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15119,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15120,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15121,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15122,option 1,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15123,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15124,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15125,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15126,option 5,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 4,pyramid 0,misleading 0
+INFO:root:15127,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15128,option 5,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15129,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15130,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15131,option 3,spin-off 0,spinoff 0,insider 4,divest 0,fraud 1,call 0,put 3,pyramid 0,misleading 0
+INFO:root:15132,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15133,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15134,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15135,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15136,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 9,call 1,put 0,pyramid 0,misleading 2
+INFO:root:15137,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15138,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15139,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15140,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15141,option 3,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 3,pyramid 0,misleading 0
+INFO:root:15142,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15143,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15144,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 2,call 1,put 1,pyramid 0,misleading 2
+INFO:root:15145,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 8,put 0,pyramid 0,misleading 0
+INFO:root:15146,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15147,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15148,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15149,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15150,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15151,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15152,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15153,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15154,option 1,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15155,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 1,pyramid 0,misleading 1
+INFO:root:15156,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15157,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15158,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15159,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15160,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 2,put 0,pyramid 0,misleading 1
+INFO:root:15161,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15162,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15163,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15164,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 8,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15165,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15166,option 2,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 2,put 0,pyramid 0,misleading 1
+INFO:root:15167,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15168,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15169,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15170,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15171,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15172,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15173,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15174,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15175,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15176,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15177,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15178,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15179,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15180,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15181,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15182,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15183,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 2
+INFO:root:15184,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15185,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15186,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 8,call 1,put 0,pyramid 0,misleading 2
+INFO:root:15187,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15188,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15189,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15190,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15191,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15192,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15193,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15194,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15195,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 2,misleading 0
+INFO:root:15196,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15197,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 7,call 1,put 0,pyramid 0,misleading 3
+INFO:root:15198,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 2,put 1,pyramid 0,misleading 1
+INFO:root:15199,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15200,option 0,spin-off 0,spinoff 0,insider 4,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15201,option 2,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15202,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15203,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15204,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15205,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15206,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15207,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15208,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15209,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15210,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15211,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15212,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15213,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15214,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15215,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 1,put 0,pyramid 0,misleading 2
+INFO:root:15216,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15217,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15218,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15219,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15220,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15221,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15222,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15223,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15224,option 4,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 3,put 0,pyramid 0,misleading 0
+INFO:root:15225,option 1,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15226,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15227,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15228,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15229,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15230,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 4
+INFO:root:15231,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15232,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15233,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15234,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15235,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15236,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15237,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15238,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15239,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 2,pyramid 0,misleading 0
+INFO:root:15240,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15241,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15242,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15243,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15244,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15245,option 1,spin-off 0,spinoff 0,insider 2,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15246,option 0,spin-off 0,spinoff 0,insider 3,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15247,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 2
+INFO:root:15248,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15249,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 2
+INFO:root:15250,option 3,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 3,put 0,pyramid 0,misleading 0
+INFO:root:15251,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15252,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15253,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15254,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15255,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 7,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15256,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15257,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15258,option 8,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 2,put 3,pyramid 0,misleading 0
+INFO:root:15259,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 10,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15260,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 2
+INFO:root:15261,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15262,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15263,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 1,misleading 0
+INFO:root:15264,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15265,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15266,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15267,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15268,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15269,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15270,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15271,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15272,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15273,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 2
+INFO:root:15274,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15275,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 6,misleading 0
+INFO:root:15276,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15277,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15278,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15279,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15280,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15281,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15282,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15283,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15284,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15285,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15286,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15287,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15288,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15289,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15290,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15291,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15292,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15293,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15294,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15295,option 10,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 3,put 4,pyramid 0,misleading 0
+INFO:root:15296,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 2
+INFO:root:15297,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15298,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15299,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15300,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15301,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15302,option 4,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 4,put 0,pyramid 0,misleading 0
+INFO:root:15303,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15304,option 0,spin-off 0,spinoff 0,insider 3,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15305,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15306,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15307,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15308,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15309,option 2,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 2,put 1,pyramid 0,misleading 0
+INFO:root:15310,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15311,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15312,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 3,call 2,put 0,pyramid 0,misleading 4
+INFO:root:15313,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15314,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15315,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15316,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15317,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15318,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15319,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15320,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15321,option 4,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15322,option 0,spin-off 0,spinoff 0,insider 4,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15323,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15324,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15325,option 1,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15326,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15327,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15328,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15329,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 7,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15330,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15331,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15332,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15333,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15334,option 8,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 7,put 0,pyramid 0,misleading 0
+INFO:root:15335,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15336,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15337,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15338,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15339,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15340,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15341,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15342,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15343,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15344,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15345,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15346,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15347,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15348,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15349,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15350,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15351,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15352,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15353,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 2
+INFO:root:15354,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15355,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15356,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15357,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15358,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15359,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15360,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15361,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15362,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15363,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15364,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15365,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15366,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15367,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15368,option 14,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15369,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15370,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15371,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 4
+INFO:root:15372,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15373,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15374,option 1,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15375,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 2
+INFO:root:15376,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15377,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15378,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15379,option 1,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15380,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 10,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15381,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15382,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15383,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15384,option 0,spin-off 0,spinoff 0,insider 3,divest 0,fraud 7,call 1,put 0,pyramid 0,misleading 2
+INFO:root:15385,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15386,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 2,put 1,pyramid 0,misleading 1
+INFO:root:15387,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15388,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15389,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15390,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15391,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15392,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15393,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15394,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15395,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15396,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15397,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15398,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15399,option 4,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 1,put 1,pyramid 0,misleading 0
+INFO:root:15400,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 2,put 0,pyramid 0,misleading 1
+INFO:root:15401,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15402,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15403,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15404,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15405,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15406,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 7,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15407,option 1,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15408,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15409,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15410,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15411,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15412,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15413,option 0,spin-off 0,spinoff 0,insider 3,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15414,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15415,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15416,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15417,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15418,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15419,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15420,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15421,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15422,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15423,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15424,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15425,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15426,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15427,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15428,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15429,option 0,spin-off 0,spinoff 0,insider 3,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15430,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 2,put 1,pyramid 0,misleading 0
+INFO:root:15431,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15432,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15433,option 1,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15434,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15435,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 2
+INFO:root:15436,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15437,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15438,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15439,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15440,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 7,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15441,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15442,option 1,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15443,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15444,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15445,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15446,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15447,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15448,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15449,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15450,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15451,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15452,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15453,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15454,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15455,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15456,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15457,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15458,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15459,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15460,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 7,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15461,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15462,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15463,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15464,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15465,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15466,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15467,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15468,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15469,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15470,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 3
+INFO:root:15471,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15472,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15473,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15474,option 1,spin-off 0,spinoff 0,insider 1,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15475,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15476,option 0,spin-off 0,spinoff 0,insider 3,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15477,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15478,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15479,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15480,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15481,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15482,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15483,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15484,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15485,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15486,option 9,spin-off 0,spinoff 0,insider 0,divest 0,fraud 7,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15487,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15488,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15489,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15490,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15491,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15492,option 3,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 3,put 0,pyramid 0,misleading 0
+INFO:root:15493,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15494,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15495,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15496,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15497,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15498,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 4,pyramid 0,misleading 0
+INFO:root:15499,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15500,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15501,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15502,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15503,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15504,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15505,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15506,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15507,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15508,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 9,call 0,put 0,pyramid 0,misleading 2
+INFO:root:15509,option 3,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 5,put 0,pyramid 0,misleading 0
+INFO:root:15510,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15511,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15512,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15513,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15514,option 1,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15515,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15516,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15517,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15519,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15520,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15521,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15522,option 0,spin-off 0,spinoff 0,insider 4,divest 0,fraud 7,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15523,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15524,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15525,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15526,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15527,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15528,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15529,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15530,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15531,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15532,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15533,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15534,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15535,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15536,option 1,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15537,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15538,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15539,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15540,option 3,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 3,put 0,pyramid 0,misleading 0
+INFO:root:15541,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15542,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15543,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15544,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15545,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15546,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15547,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15548,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 1,put 1,pyramid 0,misleading 0
+INFO:root:15549,option 0,spin-off 0,spinoff 0,insider 4,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15550,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15551,option 3,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 3,put 0,pyramid 0,misleading 0
+INFO:root:15552,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 2
+INFO:root:15553,option 1,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15554,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15555,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15556,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 4,put 0,pyramid 0,misleading 2
+INFO:root:15557,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15558,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15559,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15560,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15561,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 1,pyramid 0,misleading 1
+INFO:root:15562,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15563,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15564,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15565,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15566,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15567,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15568,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15569,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15570,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15571,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15572,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15573,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15574,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15576,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15577,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15578,option 2,spin-off 0,spinoff 0,insider 1,divest 0,fraud 3,call 1,put 1,pyramid 0,misleading 1
+INFO:root:15579,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15580,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15581,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15582,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15583,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15584,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15585,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15586,option 0,spin-off 0,spinoff 0,insider 3,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15587,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15588,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 2
+INFO:root:15589,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15590,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15591,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15592,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 7,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15593,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15594,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15595,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 43,call 5,put 4,pyramid 0,misleading 2
+INFO:root:15596,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 8,call 0,put 7,pyramid 0,misleading 1
+INFO:root:15597,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15598,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15599,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 2
+INFO:root:15600,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15601,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15602,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15603,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15604,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 2,put 0,pyramid 1,misleading 0
+INFO:root:15605,option 2,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15606,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15607,option 3,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 4,put 0,pyramid 0,misleading 0
+INFO:root:15608,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15609,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15610,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15611,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15612,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15613,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15614,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15615,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15616,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15617,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 11,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15618,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15619,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15620,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15621,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15622,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15623,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15624,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15625,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15626,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15627,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15628,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15629,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 19,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15630,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15631,option 3,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 3,put 0,pyramid 0,misleading 0
+INFO:root:15632,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15633,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15634,option 1,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15635,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15636,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15637,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15638,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15639,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15640,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15641,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15642,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15643,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15644,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15645,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15646,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15647,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15649,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15650,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15651,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15652,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15653,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15654,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15655,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15656,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15657,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15658,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15660,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 3,put 1,pyramid 2,misleading 0
+INFO:root:15661,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15662,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15663,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15664,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15665,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15666,option 1,spin-off 0,spinoff 0,insider 6,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15667,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15668,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15669,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15670,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15671,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15672,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 4,misleading 2
+INFO:root:15673,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 2
+INFO:root:15674,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15675,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15676,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15677,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15678,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15679,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15680,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 1,put 3,pyramid 0,misleading 4
+INFO:root:15681,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15682,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15683,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15684,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 7,call 0,put 0,pyramid 0,misleading 2
+INFO:root:15685,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15686,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15687,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15688,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15689,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 2,pyramid 0,misleading 1
+INFO:root:15690,option 0,spin-off 0,spinoff 0,insider 4,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15691,option 4,spin-off 0,spinoff 0,insider 9,divest 0,fraud 2,call 6,put 0,pyramid 0,misleading 0
+INFO:root:15692,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15693,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15694,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 2,misleading 0
+INFO:root:15695,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15696,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15697,option 0,spin-off 0,spinoff 0,insider 3,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15698,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15699,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15700,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15701,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15702,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15703,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15704,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15705,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15706,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15707,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15709,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15710,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15711,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15712,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15713,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15714,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15715,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 8,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15716,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 2,call 0,put 1,pyramid 0,misleading 2
+INFO:root:15717,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 2
+INFO:root:15718,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15719,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15720,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15721,option 3,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15722,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15723,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15724,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15725,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15726,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15727,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15728,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15729,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15730,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15731,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 2
+INFO:root:15732,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15733,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15734,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15736,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15737,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15738,option 0,spin-off 0,spinoff 0,insider 3,divest 0,fraud 7,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15739,option 0,spin-off 3,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15740,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15741,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15742,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15743,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15744,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15745,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15746,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15747,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15748,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15749,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15750,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15751,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15752,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15753,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15754,option 1,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15755,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15756,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15757,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15758,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15759,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15760,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15761,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15762,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15763,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15764,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15765,option 2,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 1,put 2,pyramid 0,misleading 0
+INFO:root:15766,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15767,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15768,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15769,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15770,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15771,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15772,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15773,option 1,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15774,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15775,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15776,option 0,spin-off 0,spinoff 0,insider 3,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15777,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15778,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15779,option 6,spin-off 0,spinoff 0,insider 1,divest 0,fraud 3,call 5,put 0,pyramid 0,misleading 0
+INFO:root:15780,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 20,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15781,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15782,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15783,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15784,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 1,pyramid 0,misleading 0
+INFO:root:15785,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15786,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 2
+INFO:root:15787,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15788,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15789,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15792,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15793,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15794,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15795,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15796,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15798,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15799,option 3,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 1,put 2,pyramid 0,misleading 0
+INFO:root:15800,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15801,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15802,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 2
+INFO:root:15803,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15804,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15805,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 2,pyramid 2,misleading 0
+INFO:root:15806,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15807,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15808,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15809,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15810,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15811,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15812,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15813,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15814,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 5,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15815,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15816,option 3,spin-off 0,spinoff 0,insider 3,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15817,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15818,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15819,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15820,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15821,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15822,option 1,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15823,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15824,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15825,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15826,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15827,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15828,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15829,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 3,put 0,pyramid 0,misleading 1
+INFO:root:15830,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15831,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15832,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15833,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15834,option 0,spin-off 0,spinoff 0,insider 3,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15835,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15836,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15837,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15838,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15839,option 0,spin-off 0,spinoff 0,insider 0,divest 1,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15840,option 4,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15841,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 8,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15842,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15843,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15844,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15845,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15846,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15847,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15848,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15849,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15850,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15851,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15852,option 0,spin-off 0,spinoff 0,insider 3,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15853,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15854,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15855,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15856,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15857,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15858,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15859,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15860,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15861,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15862,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15863,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15864,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 4
+INFO:root:15865,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15866,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15867,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15868,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15869,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15870,option 1,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15871,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15872,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15873,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15874,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15875,option 4,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 3,put 0,pyramid 0,misleading 0
+INFO:root:15876,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15877,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15878,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15879,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15880,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15881,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15882,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15883,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15884,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15885,option 1,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15886,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15887,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15888,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15889,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15890,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15891,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15892,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15893,option 2,spin-off 0,spinoff 0,insider 3,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15894,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15895,option 3,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 3,put 0,pyramid 0,misleading 0
+INFO:root:15897,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15898,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15899,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15900,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 4
+INFO:root:15901,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15902,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 9,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15903,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15904,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 7,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15905,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15906,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 9,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15907,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 9,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15908,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15909,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15910,option 3,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 0,put 3,pyramid 0,misleading 0
+INFO:root:15911,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15912,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15913,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15914,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15915,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15916,option 11,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15917,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15918,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15919,option 0,spin-off 0,spinoff 0,insider 5,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15920,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15921,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15922,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15923,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 1,pyramid 0,misleading 1
+INFO:root:15924,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15925,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15926,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15927,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15928,option 0,spin-off 0,spinoff 0,insider 3,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15929,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15930,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15931,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15932,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 4,pyramid 0,misleading 0
+INFO:root:15933,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15934,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 1,put 2,pyramid 0,misleading 0
+INFO:root:15935,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15936,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15937,option 1,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15938,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15939,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15940,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15941,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15942,option 8,spin-off 0,spinoff 0,insider 3,divest 0,fraud 0,call 5,put 0,pyramid 0,misleading 0
+INFO:root:15944,option 2,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15945,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15946,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15947,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15948,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15949,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15950,option 3,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15951,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15952,option 1,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15953,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15954,option 1,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15955,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15956,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 7,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15957,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15958,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 1
+INFO:root:15959,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15960,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15961,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15962,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15963,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15964,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15965,option 1,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15966,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 1,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15967,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15968,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15969,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15970,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15974,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15975,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15976,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15977,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15978,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15979,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15980,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15981,option 3,spin-off 0,spinoff 0,insider 8,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15982,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15983,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15984,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15985,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:15986,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15987,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15988,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15989,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15990,option 0,spin-off 0,spinoff 0,insider 3,divest 0,fraud 1,call 2,put 0,pyramid 0,misleading 0
+INFO:root:15991,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 2,pyramid 0,misleading 0
+INFO:root:15992,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:15993,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15994,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15995,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 1,pyramid 0,misleading 0
+INFO:root:15996,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 7,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15997,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 4,put 0,pyramid 0,misleading 0
+INFO:root:15998,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:15999,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:16000,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 1
+INFO:root:16001,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:16002,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:16003,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 4,call 0,put 0,pyramid 0,misleading 3
+INFO:root:16004,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:16005,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 1,put 0,pyramid 0,misleading 0
+INFO:root:16006,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:16007,option 0,spin-off 0,spinoff 0,insider 1,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:16008,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 3
+INFO:root:16009,option 0,spin-off 0,spinoff 0,insider 2,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:16010,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 1
+INFO:root:16011,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 4,call 0,put 1,pyramid 0,misleading 0
+INFO:root:16012,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 1,pyramid 0,misleading 0
+INFO:root:16013,option 1,spin-off 0,spinoff 0,insider 3,divest 0,fraud 0,call 2,put 0,pyramid 0,misleading 0
+INFO:root:16014,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:16015,option 3,spin-off 0,spinoff 0,insider 2,divest 0,fraud 0,call 3,put 0,pyramid 0,misleading 0
+INFO:root:16016,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 1,put 0,pyramid 0,misleading 0
+INFO:root:16017,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:16018,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 9,call 5,put 0,pyramid 0,misleading 2
+INFO:root:16019,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 1,put 0,pyramid 0,misleading 0
+INFO:root:16020,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:16021,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:16022,option 0,spin-off 0,spinoff 0,insider 3,divest 0,fraud 17,call 0,put 1,pyramid 0,misleading 1
+INFO:root:16023,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:16024,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 0,call 0,put 0,pyramid 0,misleading 0
+INFO:root:16025,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:16026,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 15,call 6,put 2,pyramid 0,misleading 0
+INFO:root:16027,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 0,pyramid 0,misleading 0
+INFO:root:16028,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
+INFO:root:16029,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:16030,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
