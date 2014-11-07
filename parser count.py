@@ -44,6 +44,7 @@ while case <= newestcase:
 			pyramid = text.count("pyramid")
 			misleading = text.count("misleading")														
 			logging.info("%d,option %d,spin-off %d,spinoff %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,misleading %d" % (case, option, spindashoff, spinoff, insider, divest, fraud, call, put, pyramid, misleading))
+			print(case)
 			case += 1
 	else:
 		soup = BeautifulSoup(urllib.request.urlopen(url + str(case) + suffix))
@@ -59,5 +60,6 @@ while case <= newestcase:
 		pyramid = text.count("pyramid")
 		misleading = text.count("misleading")														
 		logging.info("%d,option %d,spin-off %d,spinoff %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,misleading %d" % (case, option, spindashoff, spinoff, insider, divest, fraud, call, put, pyramid, misleading))
+		print(case)
 		case += 1	
 print("DONE!")
