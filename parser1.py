@@ -1,3 +1,5 @@
+# Written for Python 3.x
+# Requires BeutifulSoup (bs4)
 from bs4 import BeautifulSoup
 import urllib.request, urllib.error, logging
 logging.basicConfig(filename='parser.log',level=logging.INFO)
