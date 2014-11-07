@@ -1366,3 +1366,14 @@ INFO:root:16027,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,
 INFO:root:16028,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 5,call 0,put 0,pyramid 0,misleading 0
 INFO:root:16029,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
 INFO:root:16030,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:16031,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:16032,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 1
+INFO:root:16033,option 0,spin-off 0,spinoff 0,insider 4,divest 0,fraud 6,call 0,put 0,pyramid 0,misleading 0
+INFO:root:16034,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:16035,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 0,pyramid 0,misleading 0
+INFO:root:16036,option 1,spin-off 0,spinoff 0,insider 4,divest 0,fraud 2,call 1,put 0,pyramid 0,misleading 0
+INFO:root:16037,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 2,put 0,pyramid 0,misleading 0
+INFO:root:16038,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 1,call 0,put 1,pyramid 0,misleading 0
+INFO:root:16039,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 3,call 0,put 1,pyramid 0,misleading 0
+INFO:root:16040,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
+INFO:root:16041,option 0,spin-off 0,spinoff 0,insider 0,divest 0,fraud 2,call 0,put 0,pyramid 0,misleading 0
