@@ -49,8 +49,7 @@ while case <= sufswitchcase:
 	except urllib.error.URLError:
 		case += 1
 	else:
-		soup = BeautifulSoup(urllib.request.urlopen(url + str(case) + suffix2))
-		text = soup.get_text().lower()
+		text = BeautifulSoup(urllib.request.urlopen(url + str(case) + suffix2)).get_text().lower()
 		option = text.count("option")
 		spindashoff = text.count("spin-off")
 		spinoff = text.count("spinoff")
@@ -68,7 +67,7 @@ while case <= sufswitchcase:
 		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,misleading %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, misleading))
 		print(case)
 		case += 1	
-while case <= sufswitch2:
+while case <= sufswitchcase2:
 	try:
 		urllib.request.urlopen(url + str(case) + suffix)
 	except urllib.error.URLError:
@@ -77,8 +76,7 @@ while case <= sufswitch2:
 		except urllib.error.URLError:
 			case += 1
 		else:
-			soup = BeautifulSoup(urllib.request.urlopen(url + str(case) + suffix2))
-			text = soup.get_text().lower()
+			text = BeautifulSoup(urllib.request.urlopen(url + str(case) + suffix2)).get_text().lower()
 			option = text.count("option")
 			spindashoff = text.count("spin-off")
 			spinoff = text.count("spinoff")
@@ -93,8 +91,7 @@ while case <= sufswitch2:
 			print(case)
 			case += 1
 	else:
-		soup = BeautifulSoup(urllib.request.urlopen(url + str(case) + suffix))
-		text = soup.get_text().lower()
+		text = BeautifulSoup(urllib.request.urlopen(url + str(case) + suffix)).get_text().lower()
 		option = text.count("option")
 		spindashoff = text.count("spin-off")
 		spinoff = text.count("spinoff")
@@ -114,8 +111,7 @@ while case <= newestcase:
 	except urllib.error.URLError:
 		case += 1
 	else:
-		soup = BeautifulSoup(urllib.request.urlopen(url + str(case) + suffix))
-		text = soup.get_text().lower()
+		text = BeautifulSoup(urllib.request.urlopen(url + str(case) + suffix)).get_text().lower()
 		option = text.count("option")
 		spindashoff = text.count("spin-off")
 		spinoff = text.count("spinoff")
@@ -135,8 +131,7 @@ while case <= ohsix:
 	except urllib.error.URLError:
 		case += 1
 	else:
-		soup = BeautifulSoup(urllib.request.urlopen(url2 + "2006/lr" + str(case) + suffix))
-		text = soup.get_text().lower()
+		text = BeautifulSoup(urllib.request.urlopen(url2 + "2006/lr" + str(case) + suffix)).get_text().lower()
 		option = text.count("option")
 		spindashoff = text.count("spin-off")
 		spinoff = text.count("spinoff")
@@ -156,8 +151,7 @@ while case <= ohseven:
 	except urllib.error.URLError:
 		case += 1
 	else:
-		soup = BeautifulSoup(urllib.request.urlopen(url2 + "2007/lr" + str(case) + suffix))
-		text = soup.get_text().lower()
+		text = BeautifulSoup(urllib.request.urlopen(url2 + "2007/lr" + str(case) + suffix)).get_text().lower()
 		option = text.count("option")
 		spindashoff = text.count("spin-off")
 		spinoff = text.count("spinoff")
@@ -177,8 +171,7 @@ while case <= oheight:
 	except urllib.error.URLError:
 		case += 1
 	else:
-		soup = BeautifulSoup(urllib.request.urlopen(url2 + "2008/lr" + str(case) + suffix))
-		text = soup.get_text().lower()
+		text = BeautifulSoup(urllib.request.urlopen(url2 + "2008/lr" + str(case) + suffix)).get_text().lower()
 		option = text.count("option")
 		spindashoff = text.count("spin-off")
 		spinoff = text.count("spinoff")
@@ -198,8 +191,7 @@ while case <= ohnine:
 	except urllib.error.URLError:
 		case += 1
 	else:
-		soup = BeautifulSoup(urllib.request.urlopen(url2 + "2009/lr" + str(case) + suffix))
-		text = soup.get_text().lower()
+		text = BeautifulSoup(urllib.request.urlopen(url2 + "2009/lr" + str(case) + suffix)).get_text().lower()
 		option = text.count("option")
 		spindashoff = text.count("spin-off")
 		spinoff = text.count("spinoff")
@@ -219,8 +211,7 @@ while case <= ten:
 	except urllib.error.URLError:
 		case += 1
 	else:
-		soup = BeautifulSoup(urllib.request.urlopen(url2 + "2010/lr" + str(case) + suffix))
-		text = soup.get_text().lower()
+		text = BeautifulSoup(urllib.request.urlopen(url2 + "2010/lr" + str(case) + suffix)).get_text().lower()
 		option = text.count("option")
 		spindashoff = text.count("spin-off")
 		spinoff = text.count("spinoff")
@@ -240,8 +231,7 @@ while case <= eleven:
 	except urllib.error.URLError:
 		case += 1
 	else:
-		soup = BeautifulSoup(urllib.request.urlopen(url2 + "2011/lr" + str(case) + suffix))
-		text = soup.get_text().lower()
+		text = BeautifulSoup(urllib.request.urlopen(url2 + "2011/lr" + str(case) + suffix)).get_text().lower()
 		option = text.count("option")
 		spindashoff = text.count("spin-off")
 		spinoff = text.count("spinoff")
@@ -261,8 +251,7 @@ while case <= twelve:
 	except urllib.error.URLError:
 		case += 1
 	else:
-		soup = BeautifulSoup(urllib.request.urlopen(url2 + "2012/lr" + str(case) + suffix))
-		text = soup.get_text().lower()
+		text = BeautifulSoup(urllib.request.urlopen(url2 + "2012/lr" + str(case) + suffix)).get_text().lower()
 		option = text.count("option")
 		spindashoff = text.count("spin-off")
 		spinoff = text.count("spinoff")
@@ -282,8 +271,7 @@ while case <= thirteen:
 	except urllib.error.URLError:
 		case += 1
 	else:
-		soup = BeautifulSoup(urllib.request.urlopen(url2 + "2013/lr" + str(case) + suffix))
-		text = soup.get_text().lower()
+		text = BeautifulSoup(urllib.request.urlopen(url2 + "2013/lr" + str(case) + suffix)).get_text().lower()
 		option = text.count("option")
 		spindashoff = text.count("spin-off")
 		spinoff = text.count("spinoff")
@@ -303,8 +291,7 @@ while case <= fourteen:
 	except urllib.error.URLError:
 		case += 1
 	else:
-		soup = BeautifulSoup(urllib.request.urlopen(url2 + "2014/lr" + str(case) + suffix))
-		text = soup.get_text().lower()
+		text = BeautifulSoup(urllib.request.urlopen(url2 + "2014/lr" + str(case) + suffix)).get_text().lower()
 		option = text.count("option")
 		spindashoff = text.count("spin-off")
 		spinoff = text.count("spinoff")
