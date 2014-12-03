@@ -43,6 +43,15 @@ put = 0
 pyramid = 0
 mislead = 0
 misled = 0
+#these terms should be added in
+merger = 0
+stocksplit = 0
+dividend = 0
+buyback = 0
+sharerepurchase = 0
+acquire = 0
+acquisition = 0
+bankrupt = 0
 
 while case <= sufswitchcase:
 	try:
@@ -65,8 +74,16 @@ while case <= sufswitchcase:
 		put = text.count("put")
 		pyramid = text.count("pyramid")
 		mislead = text.count("mislead")
-		misled = text.count("misled")													
-		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,mislead %d,misled %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, mislead, misled))
+		misled = text.count("misled")
+		merger = text.count("merger")
+		stocksplit = text.count("stock split")
+		dividend = text.count("dividend")
+		buyback = text.count("buyback")
+		sharerepurchase = text.count("share repurchase")
+		acquire = text.count("acquire")
+		acquisition = text.count("acquisition")
+		bankrupt = text.count("bankrupt")													
+		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,mislead %d,misled %d,merger %d,stock split %d,dividend %d,buyback %d,share repurchase %d,acquire %d,acquisition %d,bankrupt %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, mislead, misled, merger, stocksplit, dividend, buyback, sharerepurchase, acquire, acquisition, bankrupt))
 		print(case)
 		case += 1	
 while case <= sufswitchcase2:
