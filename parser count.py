@@ -26,8 +26,8 @@ ten = 21795
 eleven = 22213
 twelve = 22582
 thirteen = 22900
-#as of 11-10-14
-fourteen = 23129
+#as of 12-02-14
+fourteen = 23146
 option = 0
 spindashoff = 0
 spinoff = 0
@@ -41,7 +41,8 @@ fraud = 0
 call = 0
 put = 0
 pyramid = 0
-misleading = 0
+mislead = 0
+misled = 0
 
 while case <= sufswitchcase:
 	try:
@@ -63,8 +64,9 @@ while case <= sufswitchcase:
 		call = text.count("call")
 		put = text.count("put")
 		pyramid = text.count("pyramid")
-		misleading = text.count("misleading")													
-		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,misleading %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, misleading))
+		mislead = text.count("mislead")
+		misled = text.count("misled")													
+		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,mislead %d,misled %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, mislead, misled))
 		print(case)
 		case += 1	
 while case <= sufswitchcase2:
@@ -90,8 +92,9 @@ while case <= sufswitchcase2:
 			call = text.count("call")
 			put = text.count("put")
 			pyramid = text.count("pyramid")
-			misleading = text.count("misleading")													
-			logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,misleading %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, misleading))
+			mislead = text.count("mislead")
+			misled = text.count("misled")													
+			logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,mislead %d,misled %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, mislead, misled))
 			print(case)
 			case += 1
 	else:
@@ -109,8 +112,9 @@ while case <= sufswitchcase2:
 		call = text.count("call")
 		put = text.count("put")
 		pyramid = text.count("pyramid")
-		misleading = text.count("misleading")													
-		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,misleading %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, misleading))
+		mislead = text.count("mislead")
+		misled = text.count("misled")													
+		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,mislead %d,misled %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, mislead, misled))
 		print(case)
 		case += 1
 while case <= newestcase:
@@ -133,8 +137,9 @@ while case <= newestcase:
 		call = text.count("call")
 		put = text.count("put")
 		pyramid = text.count("pyramid")
-		misleading = text.count("misleading")													
-		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,misleading %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, misleading))
+		mislead = text.count("mislead")
+		misled = text.count("misled")													
+		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,mislead %d,misled %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, mislead, misled))
 		print(case)
 		case += 1	
 while case <= ohsix:
@@ -157,8 +162,9 @@ while case <= ohsix:
 		call = text.count("call")
 		put = text.count("put")
 		pyramid = text.count("pyramid")
-		misleading = text.count("misleading")													
-		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,misleading %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, misleading))
+		mislead = text.count("mislead")
+		misled = text.count("misled")													
+		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,mislead %d,misled %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, mislead, misled))
 		print(case)
 		case += 1	
 while case <= ohseven:
@@ -181,8 +187,9 @@ while case <= ohseven:
 		call = text.count("call")
 		put = text.count("put")
 		pyramid = text.count("pyramid")
-		misleading = text.count("misleading")													
-		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,misleading %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, misleading))
+		mislead = text.count("mislead")
+		misled = text.count("misled")													
+		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,mislead %d,misled %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, mislead, misled))
 		print(case)
 		case += 1	
 while case <= oheight:
@@ -205,8 +212,9 @@ while case <= oheight:
 		call = text.count("call")
 		put = text.count("put")
 		pyramid = text.count("pyramid")
-		misleading = text.count("misleading")													
-		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,misleading %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, misleading))
+		mislead = text.count("mislead")
+		misled = text.count("misled")													
+		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,mislead %d,misled %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, mislead, misled))
 		print(case)
 		case += 1	
 while case <= ohnine:
@@ -229,8 +237,9 @@ while case <= ohnine:
 		call = text.count("call")
 		put = text.count("put")
 		pyramid = text.count("pyramid")
-		misleading = text.count("misleading")													
-		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,misleading %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, misleading))
+		mislead = text.count("mislead")
+		misled = text.count("misled")													
+		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,mislead %d,misled %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, mislead, misled))
 		print(case)
 		case += 1	
 while case <= ten:
@@ -243,14 +252,19 @@ while case <= ten:
 		option = text.count("option")
 		spindashoff = text.count("spin-off")
 		spinoff = text.count("spinoff")
+		spinspaceoff = text.count("spin off")	
+		spundashoff = text.count("spun-off")
+		spunoff = text.count("spunoff")
+		spunspaceoff = text.count("spun off")
 		insider = text.count("insider")
 		divest = text.count("divest")
 		fraud = text.count("fraud")
 		call = text.count("call")
 		put = text.count("put")
 		pyramid = text.count("pyramid")
-		misleading = text.count("misleading")														
-		logging.info("%d,option %d,spin-off %d,spinoff %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,misleading %d" % (case, option, spindashoff, spinoff, insider, divest, fraud, call, put, pyramid, misleading))
+		mislead = text.count("mislead")
+		misled = text.count("misled")													
+		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,mislead %d,misled %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, mislead, misled))
 		print(case)
 		case += 1	
 while case <= eleven:
@@ -263,14 +277,19 @@ while case <= eleven:
 		option = text.count("option")
 		spindashoff = text.count("spin-off")
 		spinoff = text.count("spinoff")
+		spinspaceoff = text.count("spin off")	
+		spundashoff = text.count("spun-off")
+		spunoff = text.count("spunoff")
+		spunspaceoff = text.count("spun off")
 		insider = text.count("insider")
 		divest = text.count("divest")
 		fraud = text.count("fraud")
 		call = text.count("call")
 		put = text.count("put")
 		pyramid = text.count("pyramid")
-		misleading = text.count("misleading")														
-		logging.info("%d,option %d,spin-off %d,spinoff %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,misleading %d" % (case, option, spindashoff, spinoff, insider, divest, fraud, call, put, pyramid, misleading))
+		mislead = text.count("mislead")
+		misled = text.count("misled")													
+		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,mislead %d,misled %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, mislead, misled))
 		print(case)
 		case += 1	
 while case <= twelve:
@@ -283,14 +302,19 @@ while case <= twelve:
 		option = text.count("option")
 		spindashoff = text.count("spin-off")
 		spinoff = text.count("spinoff")
+		spinspaceoff = text.count("spin off")	
+		spundashoff = text.count("spun-off")
+		spunoff = text.count("spunoff")
+		spunspaceoff = text.count("spun off")
 		insider = text.count("insider")
 		divest = text.count("divest")
 		fraud = text.count("fraud")
 		call = text.count("call")
 		put = text.count("put")
 		pyramid = text.count("pyramid")
-		misleading = text.count("misleading")														
-		logging.info("%d,option %d,spin-off %d,spinoff %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,misleading %d" % (case, option, spindashoff, spinoff, insider, divest, fraud, call, put, pyramid, misleading))
+		mislead = text.count("mislead")
+		misled = text.count("misled")													
+		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,mislead %d,misled %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, mislead, misled))
 		print(case)
 		case += 1
 while case <= thirteen:
@@ -313,8 +337,9 @@ while case <= thirteen:
 		call = text.count("call")
 		put = text.count("put")
 		pyramid = text.count("pyramid")
-		misleading = text.count("misleading")													
-		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,misleading %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, misleading))
+		mislead = text.count("mislead")
+		misled = text.count("misled")													
+		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,mislead %d,misled %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, mislead, misled))
 		print(case)
 		case += 1	
 while case <= fourteen:
@@ -337,8 +362,9 @@ while case <= fourteen:
 		call = text.count("call")
 		put = text.count("put")
 		pyramid = text.count("pyramid")
-		misleading = text.count("misleading")													
-		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,misleading %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, misleading))
+		mislead = text.count("mislead")
+		misled = text.count("misled")													
+		logging.info("%d,option %d,spin-off %d,spinoff %d,spin off %d,spun-off %d,spunoff %d,spun off %d,insider %d,divest %d,fraud %d,call %d,put %d,pyramid %d,mislead %d,misled %d" % (case, option, spindashoff, spinoff, spinspaceoff, spundashoff, spunoff, spunspaceoff, insider, divest, fraud, call, put, pyramid, mislead, misled))
 		print(case)
 		case += 1		
 logging.info("DONE!")
